@@ -7,3 +7,6 @@ a valid user .
 5. Create getset.html, add compiled file into this HTML like(getset.js). The output
 should display the valid and invalid string.
 6. DO remember to annotate with proper datatype the parameters and function
+
+## Output
+File screenshot_output.png shows the running output
